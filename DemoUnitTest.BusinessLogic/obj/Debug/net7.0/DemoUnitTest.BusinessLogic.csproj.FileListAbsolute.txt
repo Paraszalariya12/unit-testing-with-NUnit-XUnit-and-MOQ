@@ -1,0 +1,12 @@
+C:\Drive D\Projects\DemoUnitTest.BusinessLogic\bin\Debug\net7.0\DemoUnitTest.BusinessLogic.deps.json
+C:\Drive D\Projects\DemoUnitTest.BusinessLogic\bin\Debug\net7.0\DemoUnitTest.BusinessLogic.dll
+C:\Drive D\Projects\DemoUnitTest.BusinessLogic\bin\Debug\net7.0\DemoUnitTest.BusinessLogic.pdb
+C:\Drive D\Projects\DemoUnitTest.BusinessLogic\obj\Debug\net7.0\DemoUnitTest.BusinessLogic.csproj.AssemblyReference.cache
+C:\Drive D\Projects\DemoUnitTest.BusinessLogic\obj\Debug\net7.0\DemoUnitTest.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Drive D\Projects\DemoUnitTest.BusinessLogic\obj\Debug\net7.0\DemoUnitTest.BusinessLogic.AssemblyInfoInputs.cache
+C:\Drive D\Projects\DemoUnitTest.BusinessLogic\obj\Debug\net7.0\DemoUnitTest.BusinessLogic.AssemblyInfo.cs
+C:\Drive D\Projects\DemoUnitTest.BusinessLogic\obj\Debug\net7.0\DemoUnitTest.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Drive D\Projects\DemoUnitTest.BusinessLogic\obj\Debug\net7.0\DemoUnitTest.BusinessLogic.dll
+C:\Drive D\Projects\DemoUnitTest.BusinessLogic\obj\Debug\net7.0\refint\DemoUnitTest.BusinessLogic.dll
+C:\Drive D\Projects\DemoUnitTest.BusinessLogic\obj\Debug\net7.0\DemoUnitTest.BusinessLogic.pdb
+C:\Drive D\Projects\DemoUnitTest.BusinessLogic\obj\Debug\net7.0\ref\DemoUnitTest.BusinessLogic.dll
