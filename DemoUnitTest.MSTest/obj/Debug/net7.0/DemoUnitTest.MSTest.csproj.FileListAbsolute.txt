@@ -101,8 +101,8 @@ C:\Drive D\Projects\DemoUnitTest.MSTest\obj\Debug\net7.0\DemoUnitTest.MSTest.pdb
 C:\Drive D\Projects\DemoUnitTest.MSTest\obj\Debug\net7.0\DemoUnitTest.MSTest.genruntimeconfig.cache
 C:\Drive D\Projects\DemoUnitTest.MSTest\obj\Debug\net7.0\ref\DemoUnitTest.MSTest.dll
 C:\Drive D\Projects\Unit_Testing\DemoUnitTest.MSTest\bin\Debug\net7.0\CoverletSourceRootsMapping
-C:\Drive D\Projects\Unit_Testing\DemoUnitTest.MSTest\bin\Debug\net7.0\testhost.exe
 C:\Drive D\Projects\Unit_Testing\DemoUnitTest.MSTest\bin\Debug\net7.0\testhost.dll
+C:\Drive D\Projects\Unit_Testing\DemoUnitTest.MSTest\bin\Debug\net7.0\testhost.exe
 C:\Drive D\Projects\Unit_Testing\DemoUnitTest.MSTest\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Drive D\Projects\Unit_Testing\DemoUnitTest.MSTest\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Drive D\Projects\Unit_Testing\DemoUnitTest.MSTest\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll

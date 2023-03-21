@@ -20,14 +20,22 @@ namespace DemoUnitTest.BusinessLogic
         public bool deposite(decimal amount)
         {
             _logbook.LogMessage($"Amount {amount.ToString("N2")} is deposited in your account.");
+            _logbook.LogMessage("Test");
+            _logbook.LogServerity = 100;
+            var result = _logbook.LogServerity;
             balance += amount;
             return true;
         }
 
         public bool withdraw(decimal amount)
         {
-            balance -= amount;
-            return true;
+            if (amount <= balance)
+            {
+                _logbook.LogToDB($"Withdrawl Amount: {amount.ToString("N2")}");
+                balance -= amount;
+                return _logbook.LogBalanceAfterwithdraw(balance);
+            }
+            return _logbook.LogBalanceAfterwithdraw(balance - amount);
         }
 
         public decimal getBalance()

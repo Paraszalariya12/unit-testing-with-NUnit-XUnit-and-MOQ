@@ -1,0 +1,17 @@
+C:\Drive D\Projects\Unit_Testing\Bongo\Bongo.DataAccess\bin\Debug\net6.0\Bongo.DataAccess.deps.json
+C:\Drive D\Projects\Unit_Testing\Bongo\Bongo.DataAccess\bin\Debug\net6.0\Bongo.DataAccess.runtimeconfig.json
+C:\Drive D\Projects\Unit_Testing\Bongo\Bongo.DataAccess\bin\Debug\net6.0\Bongo.DataAccess.dll
+C:\Drive D\Projects\Unit_Testing\Bongo\Bongo.DataAccess\bin\Debug\net6.0\Bongo.DataAccess.pdb
+C:\Drive D\Projects\Unit_Testing\Bongo\Bongo.DataAccess\bin\Debug\net6.0\Bongo.Models.dll
+C:\Drive D\Projects\Unit_Testing\Bongo\Bongo.DataAccess\bin\Debug\net6.0\Bongo.Models.pdb
+C:\Drive D\Projects\Unit_Testing\Bongo\Bongo.DataAccess\obj\Debug\net6.0\Bongo.DataAccess.csproj.AssemblyReference.cache
+C:\Drive D\Projects\Unit_Testing\Bongo\Bongo.DataAccess\obj\Debug\net6.0\Bongo.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Drive D\Projects\Unit_Testing\Bongo\Bongo.DataAccess\obj\Debug\net6.0\Bongo.DataAccess.AssemblyInfoInputs.cache
+C:\Drive D\Projects\Unit_Testing\Bongo\Bongo.DataAccess\obj\Debug\net6.0\Bongo.DataAccess.AssemblyInfo.cs
+C:\Drive D\Projects\Unit_Testing\Bongo\Bongo.DataAccess\obj\Debug\net6.0\Bongo.DataAccess.csproj.CoreCompileInputs.cache
+C:\Drive D\Projects\Unit_Testing\Bongo\Bongo.DataAccess\obj\Debug\net6.0\Bongo.DataAccess.csproj.CopyComplete
+C:\Drive D\Projects\Unit_Testing\Bongo\Bongo.DataAccess\obj\Debug\net6.0\Bongo.DataAccess.dll
+C:\Drive D\Projects\Unit_Testing\Bongo\Bongo.DataAccess\obj\Debug\net6.0\refint\Bongo.DataAccess.dll
+C:\Drive D\Projects\Unit_Testing\Bongo\Bongo.DataAccess\obj\Debug\net6.0\Bongo.DataAccess.pdb
+C:\Drive D\Projects\Unit_Testing\Bongo\Bongo.DataAccess\obj\Debug\net6.0\Bongo.DataAccess.genruntimeconfig.cache
+C:\Drive D\Projects\Unit_Testing\Bongo\Bongo.DataAccess\obj\Debug\net6.0\ref\Bongo.DataAccess.dll

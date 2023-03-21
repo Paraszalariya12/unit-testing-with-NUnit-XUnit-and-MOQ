@@ -1,0 +1,12 @@
+C:\Drive D\Projects\Unit_Testing\Bongo\Bongo.Models\bin\Debug\net6.0\Bongo.Models.deps.json
+C:\Drive D\Projects\Unit_Testing\Bongo\Bongo.Models\bin\Debug\net6.0\Bongo.Models.dll
+C:\Drive D\Projects\Unit_Testing\Bongo\Bongo.Models\bin\Debug\net6.0\Bongo.Models.pdb
+C:\Drive D\Projects\Unit_Testing\Bongo\Bongo.Models\obj\Debug\net6.0\Bongo.Models.csproj.AssemblyReference.cache
+C:\Drive D\Projects\Unit_Testing\Bongo\Bongo.Models\obj\Debug\net6.0\Bongo.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Drive D\Projects\Unit_Testing\Bongo\Bongo.Models\obj\Debug\net6.0\Bongo.Models.AssemblyInfoInputs.cache
+C:\Drive D\Projects\Unit_Testing\Bongo\Bongo.Models\obj\Debug\net6.0\Bongo.Models.AssemblyInfo.cs
+C:\Drive D\Projects\Unit_Testing\Bongo\Bongo.Models\obj\Debug\net6.0\Bongo.Models.csproj.CoreCompileInputs.cache
+C:\Drive D\Projects\Unit_Testing\Bongo\Bongo.Models\obj\Debug\net6.0\Bongo.Models.dll
+C:\Drive D\Projects\Unit_Testing\Bongo\Bongo.Models\obj\Debug\net6.0\refint\Bongo.Models.dll
+C:\Drive D\Projects\Unit_Testing\Bongo\Bongo.Models\obj\Debug\net6.0\Bongo.Models.pdb
+C:\Drive D\Projects\Unit_Testing\Bongo\Bongo.Models\obj\Debug\net6.0\ref\Bongo.Models.dll
